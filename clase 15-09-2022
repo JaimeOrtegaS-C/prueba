@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+    </head>
+    <body background="./IMG/IMG_20220911_144122.jpg">
+        <!--Comentarios-->
+        <h1 style="background-color_rgb(240, 99,71);">...</h1>Andel</h1>
+        <h2>Jaime Ortega S-C</h2>
+        <img src="./IMG/IMG_20220911_144122.jpg" with="50%"></img>
+        <a href="./IMG/IMG_20220911_144122.jpg" target="_self"><img src="./IMG/wp9651624-cyberpunk-motorcycle-desktop-wallpapers.jpg" width="50%"/></a>
+        <b>texto</b>
+        <i>texto</i>
+        <small>tuit</small>
+        <strong></strong>
+        <del>caguau</del>
+        <p> ejemplo <sup>2</sup> funciona</p>
+        <ol>
+            <li>Primer elemento</li>
+            <li>Segundo elemento</li>
+            <li>Tercer elemento</li>
+        </ol>
+    </body>
+    </html>
